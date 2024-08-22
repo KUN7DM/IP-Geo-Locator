@@ -24,7 +24,7 @@ def map_link():
     #print(url)
 
 root = ttk.Window(themename = "minty")
-root.iconphoto(False, tk.PhotoImage(file='C:\\Users\\Sam\\OneDrive - DNS Accountants Ltd\\Code\\Projects\\PythonProjects\\GeoLoc\\internet (2).png'))
+root.iconphoto(False, tk.PhotoImage(file='internet.png'))
 root.title("GeoLocator")
 root.geometry("250x300")
 
